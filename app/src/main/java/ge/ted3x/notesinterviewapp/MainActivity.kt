@@ -21,8 +21,17 @@ import android.os.Bundle
  * https://run.mocky.io/v3/f9976553-941e-482e-9659-9deb70694610
  *
  *
+ * Note custom view
  *
- * Implement CRUD operations ( Add, Update, Get(All), Delete )
+ * Image with rectangle shape around
+ * Text inside circle shape
+ *
+ * Create CRUD generic repository with next functions
+ *
+ * Create(Add),
+ * Get(Read)
+ * Update,
+ * Delete
  */
 
 class MainActivity : AppCompatActivity() {
